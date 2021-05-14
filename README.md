@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+[![Header](https://github.com/yogenderPalChandra/yogenderPalChandra/blob/main/Desert%20Safari%20Facebook%20Cover.png "Header")](https://some-url.dev/)
 
 <!--
 **yogenderPalChandra/yogenderPalChandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
