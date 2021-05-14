@@ -1,7 +1,7 @@
 [![Header](https://github.com/yogenderPalChandra/yogenderPalChandra/blob/main/Desert%20Safari%20Facebook%20Cover.png "Header")](https://some-url.dev/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogenderPalChandra)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogenderPalChandra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogenderPalChandra&show_icons=true&theme=radical)
 
 
 
