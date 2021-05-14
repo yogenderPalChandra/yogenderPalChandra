@@ -1,4 +1,6 @@
 [![Header](https://github.com/yogenderPalChandra/yogenderPalChandra/blob/main/Desert%20Safari%20Facebook%20Cover.png "Header")](https://some-url.dev/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogenderPalChandra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **yogenderPalChandra/yogenderPalChandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
