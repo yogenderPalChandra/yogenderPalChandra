@@ -9,7 +9,7 @@
 * 👯 Deep Learning algorithms in time series prediction of Energy methods
 * 💬 complete end to end data engineering
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=file:///tmp/mozilla_yogender0/ubuntu.svg;base64,<BASE64_DATA>)
 
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=file:///tmp/mozilla_yogender0/ubuntu.svg)
 
