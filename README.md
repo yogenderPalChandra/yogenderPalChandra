@@ -9,6 +9,8 @@
 * 👯 Deep Learning algorithms in time series prediction of Energy methods
 * 💬 complete end to end data engineering
 
+> Tools I use are:
+
 ![](https://img.shields.io/badge/OS-Linux/Ubuntu-informational?style=flat&logo=Ubuntu&logoColor=white&color=2bbc8a)  ![](https://img.shields.io/badge/code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)  ![](https://img.shields.io/badge/code-JS-informational?style=flat&logo=Javascript&logoColor=white&color=2bbc8a)  ![](https://img.shields.io/badge/code-ReactJS-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)  ![](https://img.shields.io/badge/shell-Bash-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)  ![](https://img.shields.io/badge/DB-PostGres-informational?style=flat&logo=PostgreSQL&logoColor=white&color=2bbc8a)  ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)  ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/cloud-Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/MLDL-Keras-informational?style=flat&logo=Keras&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Data_PipeLine-RaspBerryPi-informational?style=flat&logo=Raspberry-Pi&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Web_Dev-Flask-informational?style=flat&logo=Flask&logoColor=white&color=2bbc8a)
  ![](https://img.shields.io/badge/Web_Dev-Django-informational?style=flat&logo=Django&logoColor=white&color=2bbc8a)
 
