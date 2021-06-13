@@ -5,9 +5,9 @@
 
 
 #  Hi I am Yogender, currently working on:
-* 🔭 Building Data Pipeline for our scientific collobration and methods
-* 👯 Deep Learning algorithms in time series prediction of Energy methods
-* 💬 complete end to end data engineering
+* 🔭 Building Data Pipeline for our scientific collobration and methods.
+* 👯 Deep Learning algorithms in time series prediction of Energy methods.
+* 💬 complete end to end data engineering.
 
 > Tools I use are:
 
