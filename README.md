@@ -4,7 +4,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogenderPalChandra&show_icons=true&theme=radical)
 
 
-#  Hi I am Yogender, currently working on:
+#  Hi I am Yogender, currently working on: )
 * 🔭 Building Data Pipeline for our scientific collobration and methods.
 * 👯 Deep Learning algorithms in time series prediction of Energy methods.
 * 💬 complete end to end data engineering.
