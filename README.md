@@ -3,7 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogenderPalChandra)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogenderPalChandra&show_icons=true&theme=radical)
 
-# Personal blog:
+### Personal blog:
 * https://yogender_blog-xezljg.turbo360-vertex.com/
 
 #  Hi I am Yogender, currently working on :
