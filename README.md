@@ -20,6 +20,9 @@
 <!--
 **yogenderPalChandra/yogenderPalChandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Personal blog:
+https://yogender_blog-xezljg.turbo360-vertex.com/
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
